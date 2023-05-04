@@ -1,5 +1,5 @@
 # Configuration Ec2 Metadata
-[![Actions Status](https://github.com/ZenExtensions/configuration-ec2-metadata/workflows/.NET%20Core%20Publish/badge.svg)](https://github.com/ZenExtensions/configuration-ec2-metadata/actions) [![Current Version](https://img.shields.io/badge/Version-1.1.2-brightgreen?logo=nuget&labelColor=30363D)](./CHANGELOG.md#100---2023-05-05)
+[![Actions Status](https://github.com/ZenExtensions/configuration-ec2-metadata/workflows/.NET%20Core%20Publish/badge.svg)](https://github.com/ZenExtensions/configuration-ec2-metadata/actions) [![Current Version](https://img.shields.io/badge/Version-1.1.0-brightgreen?logo=nuget&labelColor=30363D)](./CHANGELOG.md#100---2023-05-05)
 
 # Overview
 Load Ec2 Instance tags as configuration in your .Net Application
